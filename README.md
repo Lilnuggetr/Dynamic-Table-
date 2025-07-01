@@ -26,11 +26,10 @@ This project is a simple responsive web-based tool that allows users to generate
 ```bash
 project-folder/
 │
-├── index.html # Main HTML file
+├── Table.html # Main HTML file
 ├── styles.css # CSS styling file
 ├── script.js # JavaScript for table generation
-├── README.md # This file
-└── screenshots/ # Optional screenshots for documentation
+└── README.md # This file
 ```
 
 ---
@@ -38,7 +37,7 @@ project-folder/
 
 ## 🧑‍💻 How to Use
 
-1. Open `index.html` in any modern web browser.
+1. Open `Table.html` in any modern web browser.
 2. Enter the desired number of columns and rows.
 3. Click the **Create Table** button.
 4. A styled HTML table will appear below.
