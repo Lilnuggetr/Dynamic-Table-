@@ -18,9 +18,8 @@ This project is a simple responsive web-based tool that allows users to generate
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](screenshots/desktop.png) | ![mobile](screenshots/mobile.png) |
+![image](https://github.com/user-attachments/assets/636aace1-7d87-4d89-8177-9e1509fbda3c)
+![image](https://github.com/user-attachments/assets/79dba86b-5cc7-4d18-82cc-d54e5d687afd)
 
 ## 📂 Project Structure
 ```bash
